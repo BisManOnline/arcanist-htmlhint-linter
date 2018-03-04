@@ -1,0 +1,1 @@
+{"__symbol_cache_version__":11,"49bb7bfbe5ac555d6c9f13c3a9004665":{"have":{"class":{"HtmlHintLinter":69}},"need":{"function":{"pht":564,"execx":1293,"id":2444},"class":{"ArcanistExternalLinter":92,"ArcanistLintMessage":2451,"ArcanistLintSeverity":1183}},"xmap":{"HtmlHintLinter":["ArcanistExternalLinter"]}}}
